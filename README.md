@@ -31,8 +31,33 @@
 
 </div>
 
-<div align="center">
-
-[Plasma Guard](https://github.com/Vojislav77/plasma-guard) · [World Radio](https://github.com/Vojislav77/world-radio) · [IF Tracker](https://github.com/Vojislav77/if-tracker)
-
-</div>
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>What it is</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Vojislav77/plasma-guard"><b>plasma-guard</b></a></td>
+    <td>Antivirus GUI for Linux (ClamAV)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Vojislav77/world-radio"><b>world-radio</b></a></td>
+    <td>PWA for streaming global radio stations</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Vojislav77/if-tracker"><b>if-tracker</b></a></td>
+    <td>Privacy-focused fasting and water tracker</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Vojislav77/redstar-calendar"><b>redstar-calendar</b></a></td>
+    <td>Match calendar for FK Crvena Zvezda</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Vojislav77/ufc-calendar"><b>ufc-calendar</b></a></td>
+    <td>UFC events calendar</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Vojislav77/f1-calendar-2026"><b>f1-calendar-2026</b></a></td>
+    <td>2026 Formula 1 season tracker</td>
+  </tr>
+</table>
