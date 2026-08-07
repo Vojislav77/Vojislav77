@@ -25,7 +25,9 @@
 </div>
 
 
-<p align="center">
-  Website: [[your-site](https://vojislavkorac.xyz/)] · Photography: [[your-site](https://fotogalerija.xyz/)] · LinkedIn: [[your-linkedin](https://www.linkedin.com/in/vojislavkorac/)]
-</p>
+<div align="center">
+
+[Website](https://vojislavkorac.xyz/) · [Photography](https://fotogalerija.xyz/) · [LinkedIn](https://www.linkedin.com/in/vojislavkorac/)
+
+</div>
 
