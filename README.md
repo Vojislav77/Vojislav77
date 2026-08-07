@@ -25,7 +25,7 @@
 </div>
 
 
-- **Website:** [your-site]
-- **Email:** [your-email]
-- **LinkedIn:** [your-linkedin]
+<p align="center">
+  Website: [[your-site](https://vojislavkorac.xyz/)] · Photography: [[your-site](https://fotogalerija.xyz/)] · LinkedIn: [[your-linkedin](https://www.linkedin.com/in/vojislavkorac/)]
+</p>
 
