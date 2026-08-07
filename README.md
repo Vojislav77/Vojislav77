@@ -1,12 +1,13 @@
-# Hi, I'm Vojislav 👋
+# Hi, I'm vk
 
 A minimal GitHub profile README.
 
 ## Tech
-- [Language/Framework #1]
-- [Language/Framework #2]
-- [Tool #1]
-- [Tool #2]
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vojislav77&show_icons=true&theme=transparent&hide_border=true" height="160" />
+
+<img src="https://streak-stats.demolab.com/?user=Vojislav77&theme=transparent&hide_border=true" height="160" />
+
 
 ## Links
 - Website: [your-site]
