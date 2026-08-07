@@ -30,6 +30,11 @@
 [Website](https://vojislavkorac.xyz/) · [Photography](https://fotogalerija.xyz/) · [LinkedIn](https://www.linkedin.com/in/vojislavkorac/)
 
 </div>
+<br>
+
+---
+
+<br>
 
 <table align="center">
   <tr>
@@ -60,3 +65,9 @@
   <tr><td><a href="https://github.com/Vojislav77/redstar-calendar"><b>redstar-calendar</b></a></td><td>FK Crvena Zvezda match calendar</td></tr>
   <tr><td><a href="https://github.com/Vojislav77/f1-calendar-2026"><b>f1-calendar-2026</b></a></td><td>2026 Formula 1 season tracker</td></tr>
 </table>
+
+<br>
+
+---
+
+<br>
