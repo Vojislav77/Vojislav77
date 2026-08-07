@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Vojislav (vk) 👋</h1>
+  <h1>Hi, I'm vk</h1>
 </div>
 
 <p align="center">
@@ -27,8 +27,8 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vojislav77&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vojislav77&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Vojislav77&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/profile-detail>
 </div>
 
 ### 🌐 Connect With Me
