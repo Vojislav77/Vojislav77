@@ -14,24 +14,24 @@
 
 <hr>
 
-### 🧑‍💻 About Me
-- 🔭 I’m currently working on **[plasma-guard](https://github.com/Vojislav77/plasma-guard)**, a modern antivirus GUI for Linux.
-- 🌱 I’m currently exploring AI-assisted development and building Progressive Web Apps (PWAs).
-- 💬 Ask me about Linux, Open Source, and Web Development.
-- ⚡ Fun fact: I love tracking sports like F1, UFC, and Red Star Belgrade, so I built PWA calendars for them!
+### About Me
+- I’m currently working on **[plasma-guard](https://github.com/Vojislav77/plasma-guard)**, a modern antivirus GUI for Linux.
+- I’m currently exploring AI-assisted development and building Progressive Web Apps (PWAs).
+- Ask me about Linux, Open Source, and Web Development.
+- Fun fact: I love tracking sports like F1, UFC, and Red Star Belgrade, so I built PWA calendars for them!
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,python,linux,bash,git,github" />
 </p>
 
-### 📈 GitHub Stats
+### GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vojislav77&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/profile-detail>
+  ![GitHub top languages](https://img.shields.io/badge/-Your%20Tech-181717?style=flat&logo=github)
+  ![GitHub streak](https://streak-stats.demolab.com/?user=Vojislav77&hide_border=true)
 </div>
 
-### 🌐 Connect With Me
-- 🌍 **Website:** [your-site]
-- 📧 **Email:** [your-email]
-- 💼 **LinkedIn:** [your-linkedin]
+### Connect With Me
+- **Website:** [your-site]
+- **Email:** [your-email]
+- **LinkedIn:** [your-linkedin]
