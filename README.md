@@ -14,25 +14,17 @@
 
 <hr>
 
-### About Me
-- I’m currently working on **[plasma-guard](https://github.com/Vojislav77/plasma-guard)**, a modern antivirus GUI for Linux.
-- I’m currently exploring AI-assisted development and building Progressive Web Apps (PWAs).
-- Ask me about Linux, Open Source, and Web Development.
-- Fun fact: I love tracking sports like F1, UFC, and Red Star Belgrade, so I built PWA calendars for them!
-
-### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,python,linux,bash,git,github" />
 </p>
 
-### GitHub Stats
 <div align="center">
   
   ![GitHub streak](https://streak-stats.demolab.com/?user=Vojislav77&hide_border=true)
   
 </div>
 
-### Connect With Me
+
 - **Website:** [your-site]
 - **Email:** [your-email]
 - **LinkedIn:** [your-linkedin]
