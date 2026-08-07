@@ -33,8 +33,7 @@
 </div>
 
 ### Connect With Me
-<div align="center">
 - **Website:** [your-site]
 - **Email:** [your-email]
 - **LinkedIn:** [your-linkedin]
-</div>
+
