@@ -15,7 +15,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,linux,bash,git,github" width="60"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,linux,bash,git,github" width="300"/>
 </p>
 
 <div align="center">
