@@ -37,7 +37,7 @@
 
 <div align="center">
 
-Here are a few of my repositories:
+<em>Here are my repositories:</em>
 
 <table>
   <thead align="center">
@@ -269,4 +269,4 @@ Here are a few of my repositories:
 
 <br>
 
-![Vojislav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vojislav77&show_icons=true&theme=dark&count_private=true)
+![Vojislav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vojislav77&show_icons=true&theme=dark)
