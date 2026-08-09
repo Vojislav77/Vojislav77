@@ -73,3 +73,105 @@
 <br>
 
 # [![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastis&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/)
+
+Here are a few of my projects:
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Forks</b></td>
+      <td><b><img src="" height="15" width="15">&nbsp;&nbsp;</b>    Commits</b></td>
+      <td><b><img src="" height="15" width="15">      Contributors</b></td>
+      <td><b><img src="" height="25" width="20">&nbsp;&nbsp;&nbsp;Traffic</b></td>
+      <td><b><img src="" height="15" width="15">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Created </b></td>
+    </tr>
+  </thead>
+  <body align="center">
+    <div align="center">
+    <tr>
+      <td><a href="https://github.com/Vojislav77?tab=repositories" target="_blank"><b>Portfolio Page</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77?tab=repositories?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77?tab=repositories?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77?tab=repositories?style=plastic"</td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77?tab=repositories?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/Vojislav77?tab=repositories/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77?tab=repositories"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tzucker02/Course_content_by_week" target="_blank"><b>Course by week</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/Course_content_by_week?style=plastic"</td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/Course_content_by_week?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/Course_content_by_week/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>  
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/Course_content_by_week"></td>
+    <!--
+      <td><img alt="Commits" src="https://img.shields.io/github/commits/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    -->    
+    <tr>
+      <td><a href="https://github.com/tzucker02/course_material"><b>Course Material</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/course_material?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/course_material?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/course_material?style=plastic"</td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/course_material?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/course_material/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/course_material"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tzucker02/Data-science-readings"><b>Data Science Readings</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/Data-science-readings?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Data-science-readings?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/Data-science-readings?style=plastic"</td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/Data-science-readings?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/Data-science-readings/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/Data-science-readings"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tzucker02/How-to-customize-your-GitHub-profile"><b>How to customize your GitHub profile</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/How-to-customize-your-GitHub-profile?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/How-to-customize-your-GitHub-profile?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/How-to-customize-your-GitHub-profile?style=plastic"</td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/How-to-customize-your-GitHub-profile?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/How-to-customize-your-GitHub-profile/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/How-to-customize-your-GitHub-profile"></td>
+      <!--
+      [insights for customization repo](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/pulse)
+      -->
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tzucker02/dx699_milestone1"><b>DX699 Milestone 1</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/dx699_milestone1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/dx699_milestone1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/dx699_milestone1?style=plastic"</td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/dx699_milestone1?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/dx699_milestone1/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/dx699_milestone1"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tzucker02/Links"><b>Python Cheatsheets</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/Links?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Links?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/Links?style=plastic"</td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/links?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/Links/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/Links"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tzucker/scriptfromAJZS"><b>Aram Zucker-Scharff's brew script for setting up Python on a MAC</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/scriptfromAJZS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/scriptfromAJZS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/scriptfromAJZS?style=plastic"</td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/scriptfromAJZS?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/scriptfromAJZS/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/scriptfromAJZS"></td>
+    </tr>
+    <tr>
+      <td cols=4><a href="https://public.tableau.com/app/profile/thomaszuckerscharff/vizzes" target="_blank"><b>My Tableau Public profile</b></a></td>
+    </tr>  
+    </div>
+  </tbody>
+</table>
+
+
