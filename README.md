@@ -46,10 +46,6 @@
 
 <br>
 
-<br>
-<br>
-<br>
-
 <div align="center">
 
 <em>Here are my repositories:</em>
