@@ -269,4 +269,4 @@
 
 <br>
 
-![Vojislav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vojislav77&show_icons=true&theme=dark)
+![Total Stars](https://img.shields.io/github/stars/Vojislav77?affiliations=OWNER&style=plastic&color=blue&label=Total%20Stars)
