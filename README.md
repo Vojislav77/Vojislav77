@@ -25,6 +25,7 @@
 </div>
 
 
+
 <div align="center">
 
 [Website](https://vojislavkorac.xyz/) · [Photography](https://fotogalerija.xyz/) · [LinkedIn](https://www.linkedin.com/in/vojislavkorac/)
@@ -32,6 +33,7 @@
 # [![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastic&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/) # [![Total Stars](https://img.shields.io/github/stars/Vojislav77?affiliations=OWNER&style=plastic&color=blue&label=Total%20Stars)](https://github.com/Vojislav77?tab=repositories)
 
 </div>
+
 
 <div align="center">
 
@@ -266,3 +268,5 @@ Here are a few of my repositories:
 ---
 
 <br>
+
+![Vojislav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vojislav77&show_icons=true&theme=dark&count_private=true)
