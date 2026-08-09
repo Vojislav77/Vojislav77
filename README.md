@@ -74,104 +74,228 @@
 
 # [![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastis&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/) <img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77?style=flat-square&labelColor=343b41"/>
 
-Here are a few of my projects:
+<div align="center">
+Here are a few of my repositories:
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Project</b></td>
-      <td><b>Stars</b></td>
-      <td><b>Forks</b></td>
-      <td><b>    Commits</b></td>
-      <td><b>      Contributors</b></td>
-      <td><b>Traffic</b></td>
-      <td><b>Created </b></td>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+      <td><b><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/git-commit-4241545-3517850.png" height="15" width="15">&nbsp;&nbsp;Commits</b></td>
+      <td><b><img src="https://cdn-icons-png.freepik.com/256/15452/15452650.png?semt=ais_hybrid" height="15" width="15">      Contributors</b></td>
+      <td><b><img src="https://cdn-icons-png.flaticon.com/256/3161/3161694.png" height="25" width="20">&nbsp;&nbsp;&nbsp;Traffic</b></td>
+      <td><b><img src="https://raw.githubusercontent.com/pulsecron/pulse/HEAD/pulse.png" height="15" width="15">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Created </b></td>
     </tr>
   </thead>
-  <body align="center">
-    <div align="center">
-    <tr>
-      <td><a href="https://github.com/Vojislav77?" target="_blank"><b>Portfolio Page</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77?style=plastic"</td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77?style=plastic&cacheSeconds=600"</td>
-      <td><a href="https://github.com/Vojislav77/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77"></td>
-    </tr>
+  <tbody align="center">
     <tr>
       <td><a href="https://github.com/Vojislav77/lumen-calendar" target="_blank"><b>Lumen Calendar</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/lumen-calendar?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/lumen-calendar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/lumen-calendar?style=plastic"</td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/lumen-calendar?style=plastic&cacheSeconds=600"</td>
-      <td><a href="https://github.com/Vojislav77/lumen-calendar/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>  
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/lumen-calendar?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/lumen-calendar?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/lumen-calendar/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/lumen-calendar"></td>
-    <!--
-      <td><img alt="Commits" src="https://img.shields.io/github/commits/Vojislav77/lumen-calendar?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    -->    
-    <tr>
-      <td><a href="https://github.com/tzucker02/course_material"><b>Course Material</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/course_material?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/course_material?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/course_material?style=plastic"</td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/course_material?style=plastic&cacheSeconds=600"</td>
-      <td><a href="https://github.com/tzucker02/course_material/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/course_material"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tzucker02/Data-science-readings"><b>Data Science Readings</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/Data-science-readings?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Data-science-readings?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/Data-science-readings?style=plastic"</td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/Data-science-readings?style=plastic&cacheSeconds=600"</td>
-      <td><a href="https://github.com/tzucker02/Data-science-readings/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/Data-science-readings"></td>
+      <td><a href="https://github.com/Vojislav77/habitat" target="_blank"><b>Habitat</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/habitat?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/habitat?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/habitat?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/habitat?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/habitat/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/habitat"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tzucker02/How-to-customize-your-GitHub-profile"><b>How to customize your GitHub profile</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/How-to-customize-your-GitHub-profile?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/How-to-customize-your-GitHub-profile?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/How-to-customize-your-GitHub-profile?style=plastic"</td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/How-to-customize-your-GitHub-profile?style=plastic&cacheSeconds=600"</td>
-      <td><a href="https://github.com/tzucker02/How-to-customize-your-GitHub-profile/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/How-to-customize-your-GitHub-profile"></td>
-      <!--
-      [insights for customization repo](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/pulse)
-      -->
+      <td><a href="https://github.com/Vojislav77/magnet" target="_blank"><b>Magnet</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/magnet?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/magnet?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/magnet?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/magnet?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/magnet/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/magnet"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tzucker02/dx699_milestone1"><b>DX699 Milestone 1</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/dx699_milestone1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/dx699_milestone1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/dx699_milestone1?style=plastic"</td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/dx699_milestone1?style=plastic&cacheSeconds=600"</td>
-      <td><a href="https://github.com/tzucker02/dx699_milestone1/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/dx699_milestone1"></td>
+      <td><a href="https://github.com/Vojislav77/audio-to-mp3-converter" target="_blank"><b>Audio to MP3 Converter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/audio-to-mp3-converter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/audio-to-mp3-converter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/audio-to-mp3-converter?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/audio-to-mp3-converter?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/audio-to-mp3-converter/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/audio-to-mp3-converter"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tzucker02/Links"><b>Python Cheatsheets</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/Links?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Links?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/Links?style=plastic"</td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/links?style=plastic&cacheSeconds=600"</td>
-      <td><a href="https://github.com/tzucker02/Links/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/Links"></td>
+      <td><a href="https://github.com/Vojislav77/plasma-guard" target="_blank"><b>Plasma Guard</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/plasma-guard?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/plasma-guard?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/plasma-guard?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/plasma-guard?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/plasma-guard/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/plasma-guard"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tzucker/scriptfromAJZS"><b>Aram Zucker-Scharff's brew script for setting up Python on a MAC</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/scriptfromAJZS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/scriptfromAJZS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/scriptfromAJZS?style=plastic"</td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/scriptfromAJZS?style=plastic&cacheSeconds=600"</td>
-      <td><a href="https://github.com/tzucker02/scriptfromAJZS/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/scriptfromAJZS"></td>
+      <td><a href="https://github.com/Vojislav77/apple-podcast-fox-sidebar" target="_blank"><b>Apple Podcast Fox Sidebar</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/apple-podcast-fox-sidebar?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/apple-podcast-fox-sidebar?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/apple-podcast-fox-sidebar?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/apple-podcast-fox-sidebar?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/apple-podcast-fox-sidebar/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/apple-podcast-fox-sidebar"></td>
     </tr>
     <tr>
-      <td cols=4><a href="https://public.tableau.com/app/profile/thomaszuckerscharff/vizzes" target="_blank"><b>My Tableau Public profile</b></a></td>
-    </tr>  
-    </div>
+      <td><a href="https://github.com/Vojislav77/weather-fox-sidebar" target="_blank"><b>Weather Fox Sidebar</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/weather-fox-sidebar?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/weather-fox-sidebar?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/weather-fox-sidebar?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/weather-fox-sidebar?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/weather-fox-sidebar/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/weather-fox-sidebar"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/ai-desktop-apps" target="_blank"><b>AI Desktop Apps</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/ai-desktop-apps?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/ai-desktop-apps?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/ai-desktop-apps?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/ai-desktop-apps?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/ai-desktop-apps/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/ai-desktop-apps"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/image-converter" target="_blank"><b>Image Converter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/image-converter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/image-converter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/image-converter?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/image-converter?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/image-converter/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/image-converter"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/weight-tracker" target="_blank"><b>Weight Tracker</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/weight-tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/weight-tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/weight-tracker?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/weight-tracker?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/weight-tracker/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/weight-tracker"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/fast" target="_blank"><b>Fast</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/fast?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/fast?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/fast?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/fast?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/fast/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/fast"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/orthodox-calendar" target="_blank"><b>Orthodox Calendar</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/orthodox-calendar?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/orthodox-calendar?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/orthodox-calendar?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/orthodox-calendar?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/orthodox-calendar/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/orthodox-calendar"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/world-radio" target="_blank"><b>World Radio</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/world-radio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/world-radio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/world-radio?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/world-radio?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/world-radio/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/world-radio"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/subnet-calculator" target="_blank"><b>Subnet Calculator</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/subnet-calculator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/subnet-calculator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/subnet-calculator?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/subnet-calculator?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/subnet-calculator/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/subnet-calculator"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/uptime-monitor" target="_blank"><b>Uptime Monitor</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/uptime-monitor?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/uptime-monitor?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/uptime-monitor?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/uptime-monitor?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/uptime-monitor/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/uptime-monitor"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/dynamic-wrapper" target="_blank"><b>Dynamic Wrapper</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/dynamic-wrapper?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/dynamic-wrapper?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/dynamic-wrapper?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/dynamic-wrapper?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/dynamic-wrapper/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/dynamic-wrapper"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/alternate-day-fasting-tracker" target="_blank"><b>Alternate Day Fasting Tracker</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/alternate-day-fasting-tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/alternate-day-fasting-tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/alternate-day-fasting-tracker?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/alternate-day-fasting-tracker?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/alternate-day-fasting-tracker/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/alternate-day-fasting-tracker"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/book-collection-tracker" target="_blank"><b>Book Collection Tracker</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/book-collection-tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/book-collection-tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/book-collection-tracker?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/book-collection-tracker?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/book-collection-tracker/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/book-collection-tracker"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/global-time-meeting-scheduler" target="_blank"><b>Global Time Meeting Scheduler</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/global-time-meeting-scheduler?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/global-time-meeting-scheduler?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/global-time-meeting-scheduler?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/global-time-meeting-scheduler?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/global-time-meeting-scheduler/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/global-time-meeting-scheduler"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/if-tracker" target="_blank"><b>IF Tracker</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/if-tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/if-tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/if-tracker?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/if-tracker?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/if-tracker/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/if-tracker"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/ufc-calendar" target="_blank"><b>UFC Calendar</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/ufc-calendar?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/ufc-calendar?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/ufc-calendar?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/ufc-calendar?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/ufc-calendar/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/ufc-calendar"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/redstar-calendar" target="_blank"><b>Redstar Calendar</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/redstar-calendar?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/redstar-calendar?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/redstar-calendar?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/redstar-calendar?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/redstar-calendar/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/redstar-calendar"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vojislav77/f1-calendar-2026" target="_blank"><b>F1 Calendar 2026</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/f1-calendar-2026?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/f1-calendar-2026?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Vojislav77/f1-calendar-2026?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/f1-calendar-2026?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/f1-calendar-2026/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/f1-calendar-2026"></td>
+    </tr>
   </tbody>
 </table>
-
-
+</div>
