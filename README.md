@@ -33,12 +33,6 @@
 
 </div>
 
-<br>
-
----
-
-<br>
-
 <div align="center">
 
 Here are a few of my repositories:
@@ -272,5 +266,3 @@ Here are a few of my repositories:
 ---
 
 <br>
-
-<img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77?style=flat-square&labelColor=343b41"/>
