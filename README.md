@@ -90,13 +90,13 @@ Here are a few of my projects:
   <body align="center">
     <div align="center">
     <tr>
-      <td><a href="https://github.com/Vojislav77?tab=repositories" target="_blank"><b>Portfolio Page</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77?tab=repositories?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77?tab=repositories?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77?tab=repositories?style=plastic"</td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77?tab=repositories?style=plastic&cacheSeconds=600"</td>
-      <td><a href="https://github.com/Vojislav77?tab=repositories/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77?tab=repositories"></td>
+      <td><a href="https://github.com/Vojislav77?" target="_blank"><b>Portfolio Page</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77?style=plastic"</td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/Vojislav77/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77"></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Vojislav77/lumen-calendar" target="_blank"><b>Lumen Calendar</b></a></td>
