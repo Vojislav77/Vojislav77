@@ -30,6 +30,7 @@
 [Website](https://vojislavkorac.xyz/) · [Photography](https://fotogalerija.xyz/) · [LinkedIn](https://www.linkedin.com/in/vojislavkorac/)
 
 </div>
+
 <br>
 
 ---
@@ -72,7 +73,7 @@
 
 <br>
 
-# [![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastis&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/) <img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77?style=flat-square&labelColor=343b41"/>
+# [![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastis&color=blue&view=today-total&label=Profile Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/) <img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77?style=flat-square&labelColor=343b41"/>
 
 <div align="center">
 
@@ -80,14 +81,14 @@ Here are a few of my repositories:
 
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr>
       <td><b>Project</b></td>
       <td><b>Stars</b></td>
       <td><b>Forks</b></td>
-      <td><b><Commits</b></td>
+      <td><b>Commits</b></td>
       <td><b>Contributors</b></td>
       <td><b>Traffic</b></td>
-      <td><b>Created </b></td>
+      <td><b>Created</b></td>
     </tr>
   </thead>
   <tbody align="center">
