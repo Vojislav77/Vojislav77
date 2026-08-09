@@ -28,9 +28,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=plastic&logo=globe&logoColor=white)](https://vojislavkorac.xyz/) · [![Photography](https://img.shields.io/badge/Photography-333333?style=plastic&logo=camera&logoColor=white)](https://fotogalerija.xyz/) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vojislavkorac/)
-
-# [![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastic&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/) · [![Total Stars](https://img.shields.io/github/stars/Vojislav77?affiliations=OWNER&style=plastic&color=blue&label=Total%20Stars)](https://github.com/Vojislav77?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=plastic&logo=globe&logoColor=white)](https://vojislavkorac.xyz/) [![Photography](https://img.shields.io/badge/Photography-333333?style=plastic&logo=camera&logoColor=white)](https://fotogalerija.xyz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vojislavkorac/)
+# [![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastic&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/) [![Total Stars](https://img.shields.io/github/stars/Vojislav77?affiliations=OWNER&style=plastic&color=blue&label=Total%20Stars)](https://github.com/Vojislav77?tab=repositories)
 
 </div>
 
@@ -268,18 +267,3 @@
 ---
 
 <br>
-
-
-
-
-<p>
-<a href="https://www.linkedin.com/in/vojislavkorac/" style="display: inline-block; padding: 5px 10px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 4px; font-size: 12px; font-weight: bold;">
-  <img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=32" width="14" style="vertical-align: middle; margin-right: 5px;"> LinkedIn
-</a>
-<a href="https://vojislavkorac.xyz/" style="display: inline-block; padding: 5px 10px; background-color: #333333; color: white; text-decoration: none; border-radius: 4px; font-size: 12px; font-weight: bold;">
-  <img src="https://www.google.com/s2/favicons?domain=vojislavkorac.xyz&sz=32" width="14" style="vertical-align: middle; margin-right: 5px;"> Portfolio
-</a>
-<a href="https://fotogalerija.xyz/" style="display: inline-block; padding: 5px 10px; background-color: #333333; color: white; text-decoration: none; border-radius: 4px; font-size: 12px; font-weight: bold;">
-  <img src="https://www.google.com/s2/favicons?domain=fotogalerija.xyz&sz=32" width="14" style="vertical-align: middle; margin-right: 5px;"> Photography
-</a>
-</p>
