@@ -14,11 +14,9 @@
 
 <div align="center">
 
-# [![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastic&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/) [![Total Stars](https://img.shields.io/github/stars/Vojislav77?affiliations=OWNER&style=plastic&color=blue&label=Total%20Stars)](https://github.com/Vojislav77?tab=repositories)
+[![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastic&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/) [![Total Stars](https://img.shields.io/github/stars/Vojislav77?affiliations=OWNER&style=plastic&color=blue&label=Total%20Stars)](https://github.com/Vojislav77?tab=repositories)
 
 </div>
-
-<hr>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,python,linux,bash,git,github" width="300"/>
