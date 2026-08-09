@@ -72,7 +72,7 @@
 
 <br>
 
-# [![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastis&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/)
+# [![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastis&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/) <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77?style=flat-square&labelColor=343b41"/></td>
 
 Here are a few of my projects:
 <table>
