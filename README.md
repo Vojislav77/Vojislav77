@@ -18,8 +18,6 @@
 
 </div>
 
-<hr>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,python,linux,bash,git,github" width="300"/>
 </p>
@@ -30,14 +28,15 @@
   
 </div>
 
-
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=plastic&logo=globe&logoColor=white)](https://vojislavkorac.xyz/) [![Photography](https://img.shields.io/badge/Photography-333333?style=plastic&logo=camera&logoColor=white)](https://fotogalerija.xyz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vojislavkorac/)
 
 </div>
 
+<br>
+<br>
+<br>
 
 <div align="center">
 
