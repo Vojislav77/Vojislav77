@@ -29,9 +29,6 @@
 
 [Website](https://vojislavkorac.xyz/) · [Photography](https://fotogalerija.xyz/) · [LinkedIn](https://www.linkedin.com/in/vojislavkorac/)
 
-</div>
-<div align="center">
-
 # [![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastis&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/)
 
 </div>
