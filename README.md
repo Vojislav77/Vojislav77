@@ -81,10 +81,10 @@ Here are a few of my projects:
       <td><b>Project</b></td>
       <td><b>Stars</b></td>
       <td><b>Forks</b></td>
-      <td><b><img src="" height="15" width="15">&nbsp;&nbsp;</b>    Commits</b></td>
-      <td><b><img src="" height="15" width="15">      Contributors</b></td>
-      <td><b><img src="" height="25" width="20">&nbsp;&nbsp;&nbsp;Traffic</b></td>
-      <td><b><img src="" height="15" width="15">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Created </b></td>
+      <td><b></b>    Commits</b></td>
+      <td><b>      Contributors</b></td>
+      <td><b>Traffic</b></td>
+      <td><b>Created </b></td>
     </tr>
   </thead>
   <body align="center">
