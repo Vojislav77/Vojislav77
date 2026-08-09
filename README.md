@@ -30,7 +30,7 @@
 
 [Website](https://vojislavkorac.xyz/) · [Photography](https://fotogalerija.xyz/) · [LinkedIn](https://www.linkedin.com/in/vojislavkorac/)
 
-# [![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastic&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/) # [![Total Stars](https://img.shields.io/github/stars/Vojislav77?affiliations=OWNER&style=plastic&color=blue&label=Total%20Stars)](https://github.com/Vojislav77?tab=repositories)
+# [![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastic&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/) [![Total Stars](https://img.shields.io/github/stars/Vojislav77?affiliations=OWNER&style=plastic&color=blue&label=Total%20Stars)](https://github.com/Vojislav77?tab=repositories)
 
 </div>
 
@@ -268,5 +268,3 @@
 ---
 
 <br>
-
-![Total Stars](https://img.shields.io/github/stars/Vojislav77?affiliations=OWNER&style=plastic&color=blue&label=Total%20Stars)
