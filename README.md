@@ -81,7 +81,7 @@ Here are a few of my projects:
       <td><b>Project</b></td>
       <td><b>Stars</b></td>
       <td><b>Forks</b></td>
-      <td><b></b>    Commits</b></td>
+      <td><b>    Commits</b></td>
       <td><b>      Contributors</b></td>
       <td><b>Traffic</b></td>
       <td><b>Created </b></td>
@@ -99,15 +99,15 @@ Here are a few of my projects:
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77?tab=repositories"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tzucker02/Course_content_by_week" target="_blank"><b>Course by week</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/Course_content_by_week?style=plastic"</td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/Course_content_by_week?style=plastic&cacheSeconds=600"</td>
-      <td><a href="https://github.com/tzucker02/Course_content_by_week/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>  
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/Course_content_by_week"></td>
+      <td><a href="https://github.com/Vojislav77/lumen-calendar" target="_blank"><b>Lumen Calendar</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/lumen-calendar?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/lumen-calendar?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/lumen-calendar?style=plastic"</td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/lumen-calendar?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/Vojislav77/lumen-calendar/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>  
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/lumen-calendar"></td>
     <!--
-      <td><img alt="Commits" src="https://img.shields.io/github/commits/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commits/Vojislav77/lumen-calendar?style=flat-square&labelColor=343b41"/></td>
     </tr>
     -->    
     <tr>
