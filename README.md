@@ -70,7 +70,7 @@
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/cue-splitter?style=plastic"/></td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/cue-splitter?style=plastic&cacheSeconds=600"/></td>
       <td><a href="https://github.com/Vojislav77/cue-splitter/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/cue-splitter"></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/cue-splitter?label=created"></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Vojislav77/lumen-calendar" target="_blank"><b>Lumen Calendar</b></a></td>
