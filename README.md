@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<em>Here are my repositories:</em>
+<em>My repositories:</em>
 
 <table>
   <thead align="center">
