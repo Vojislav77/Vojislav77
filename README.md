@@ -72,6 +72,15 @@
       <td><a href="https://github.com/Vojislav77/little-notes/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/little-notes?label=created"></td>
     </tr>
+        <tr>
+      <td><a href="https://github.com/Vojislav77/little-tasks" target="_blank"><b>Little Tasks</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/little-tasks?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/little-tasks?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/little-tasks?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/little-tasks?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/little-tasks/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/little-tasks?label=created"></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/Vojislav77/weather-dash" target="_blank"><b>Weather Dash</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/weather-dash?style=flat-square&labelColor=343b41"/></td>
