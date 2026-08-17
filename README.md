@@ -38,6 +38,7 @@
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=Vojislav77&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
  ![Profile Views](https://komarev.com/ghpvc/?username=Vojislav77)
+ ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vojislav77)
   
 </div>
 
