@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastic&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/) [![Total Stars](https://img.shields.io/github/stars/Vojislav77?affiliations=OWNER&style=plastic&color=blue&label=Total%20Stars)](https://github.com/Vojislav77?tab=repositories)
+[![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastic&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/) [![Total Stars](https://img.shields.io/github/stars/Vojislav77?affiliations=OWNER&style=plastic&color=blue&label=Total%20Stars)](https://github.com/Vojislav77?tab=repositories) ![Profile Views](https://komarev.com/ghpvc/?username=Vojislav77)
 
 </div>
 
@@ -35,10 +35,10 @@
 </p>
 
 <div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Vojislav77&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
- ![Profile Views](https://komarev.com/ghpvc/?username=Vojislav77)
- ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vojislav77)
+ 
+ <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vojislav77" />
+ </p>
   
 </div>
 
