@@ -36,9 +36,9 @@
 
 <div align="center">
  
- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vojislav77" />
- </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vojislav77" />
+</p>
   
 </div>
 
