@@ -62,6 +62,15 @@
   </thead>
   <tbody align="center">
     <tr>
+      <td><a href="https://github.com/Vojislav77/gallery-website" target="_blank"><b>Gallery Website</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/gallery-website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/gallery-website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/gallery-website?style=plastic"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/gallery-website?style=plastic&cacheSeconds=600"/></td>
+      <td><a href="https://github.com/Vojislav77/gallery-website/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/gallery-website?label=created"></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Vojislav77/digital-downloads-website" target="_blank"><b>Digital Downloads Website</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/digital-downloads-website?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/digital-downloads-website?style=flat-square&labelColor=343b41"/></td>
