@@ -37,7 +37,7 @@
   
   <h3>Open Source Projects:</h3>
 
-### Calendars & Scheduling
+## Calendars & Scheduling
 
 | Project | Stats & Info |
 | :--- | :--- |
