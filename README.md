@@ -13,7 +13,7 @@
   </p>
 </div>
 
-
+<br>
 
 ### Calendars & Scheduling
 * **[Lumen Calendar](https://github.com/Vojislav77/lumen-calendar)** — Modern calendar application *(JavaScript, HTML, CSS)*
@@ -56,7 +56,7 @@
 * **[Plasma Guard](https://github.com/Vojislav77/plasma-guard)** — Security and antivirus scanner tool *(Python)*
 * **[Magnet](https://github.com/Vojislav77/magnet)** — Torrent client desktop downloader *(Python)*
 
-
+<br>
 
 <div align="center">
 
