@@ -19,12 +19,12 @@
 
 Here are a few of my core open-source tools and applications:
 
-* **[Habitat](https://github.com/Vojislav77/habitat)** — A modern habit tracking application built with Next.js, TypeScript, and Tailwind CSS[cite: 1].
-* **[Lumen Calendar](https://github.com/Vojislav77/lumen-calendar)** — A modern, clean web calendar application built with JavaScript[cite: 1].
-* **[Little Notes](https://github.com/Vojislav77/little-notes)** — A lightweight, fast command-line markdown note-taking app written in Rust[cite: 1].
-* **[Plasma Guard](https://github.com/Vojislav77/plasma-guard)** — A security and antivirus scanner tool designed for Linux, built in Python[cite: 1].
-* **[AI Desktop Apps](https://github.com/Vojislav77/ai-desktop-apps)** — A collection of AI-powered desktop utilities[cite: 1].
-* **[Uptime Monitor](https://github.com/Vojislav77/uptime-monitor)** — A reliable service uptime monitoring tool written in Python[cite: 1].
+* **[Habitat](https://github.com/Vojislav77/habitat)** — A modern habit tracking application built with Next.js, TypeScript, and Tailwind CSS.
+* **[Lumen Calendar](https://github.com/Vojislav77/lumen-calendar)** — A modern, clean web calendar application built with JavaScript.
+* **[Little Notes](https://github.com/Vojislav77/little-notes)** — A lightweight, fast command-line markdown note-taking app written in Rust.
+* **[Plasma Guard](https://github.com/Vojislav77/plasma-guard)** — A security and antivirus scanner tool designed for Linux, built in Python.
+* **[AI Desktop Apps](https://github.com/Vojislav77/ai-desktop-apps)** — A collection of AI-powered desktop utilities.
+* **[Uptime Monitor](https://github.com/Vojislav77/uptime-monitor)** — A reliable service uptime monitoring tool written in Python.
 
 *(Want to see more? Check out my repositories tab for specialized calendars, browser extensions, and media utilities!)*
 
