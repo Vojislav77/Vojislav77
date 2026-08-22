@@ -2,8 +2,8 @@ name: Update Repo Table
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # runs daily at 06:00 UTC
-  workflow_dispatch:      # allows you to click "Run" manually
+    - cron: '0 6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-table:
@@ -13,92 +13,30 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate table with GitHub Script
+      - name: Generate table rows
         uses: actions/github-script@v7
         with:
           script: |
             const owner = context.repo.owner;
             const profileRepo = `${owner}/${owner}`;
 
-            // 1. Get all your repositories
+            // Get all public repos (excluding the profile repo itself)
             const { data: repos } = await github.rest.repos.listForUser({
               username: owner,
               per_page: 100,
               sort: 'updated'
             });
 
-            let allRepos = [];
+            // Filter out the profile repo
+            const filtered = repos.filter(r => r.full_name !== profileRepo);
 
-            for (const repo of repos) {
-              // Skip the profile repo itself (so it doesn't show up in the list)
-              if (repo.full_name === profileRepo) continue;
+            // Sort by stars (most stars first) – you can change to 'created' or 'updated'
+            filtered.sort((a, b) => b.stargazers_count - a.stargazers_count);
 
-              // Get commit count (total)
-              const commits = await github.rest.repos.listCommits({
-                owner,
-                repo: repo.name,
-                per_page: 1
-              });
-              let commitCount = 0;
-              if (commits.headers.link) {
-                const match = commits.headers.link.match(/page=(\d+)>; rel="last"/);
-                if (match) commitCount = parseInt(match[1]);
-              } else {
-                commitCount = commits.data.length;
-              }
-
-              // Get contributor count
-              const contributors = await github.rest.repos.listContributors({
-                owner,
-                repo: repo.name,
-                per_page: 1
-              });
-              let contribCount = 0;
-              if (contributors.headers.link) {
-                const match = contributors.headers.link.match(/page=(\d+)>; rel="last"/);
-                if (match) contribCount = parseInt(match[1]);
-              } else {
-                contribCount = contributors.data.length;
-              }
-
-              allRepos.push({
-                name: repo.name,
-                description: repo.description || '',
-                stars: repo.stargazers_count,
-                forks: repo.forks_count,
-                created: repo.created_at.split('T')[0],
-                commits: commitCount,
-                contributors: contribCount,
-                topics: repo.topics || []
-              });
-            }
-
-            // 2. Group by topics (categories)
-            // If a repo has multiple topics, it will appear under each one.
-            // If a repo has NO topics, put it in a category called "Other".
-            const grouped = {};
-            for (const repo of allRepos) {
-              const topics = repo.topics.length > 0 ? repo.topics : ['other'];
-              for (const topic of topics) {
-                if (!grouped[topic]) grouped[topic] = [];
-                grouped[topic].push(repo);
-              }
-            }
-
-            // Sort topics alphabetically
-            const sortedTopics = Object.keys(grouped).sort();
-
-            // 3. Generate the HTML rows
-            let htmlRows = '';
-            for (const topic of sortedTopics) {
-              // Add a category header row
-              htmlRows += `<tr><td colspan="7"><b>📁 ${topic.toUpperCase()}</b></td></tr>`;
-
-              // Sort repos inside this category by stars (most stars first)
-              const reposInTopic = grouped[topic].sort((a, b) => b.stars - a.stars);
-
-              for (const repo of reposInTopic) {
-                htmlRows += `
+            // Build each table row exactly like your original format
+            let rows = '';
+            for (const repo of filtered) {
+              rows += `
                 <tr>
                   <td><a href="https://github.com/${owner}/${repo.name}" target="_blank"><b>${repo.name}</b></a></td>
                   <td><img alt="Stars" src="https://img.shields.io/github/stars/${owner}/${repo.name}?style=flat-square&labelColor=343b41"/></td>
@@ -108,11 +46,10 @@ jobs:
                   <td><a href="https://github.com/${owner}/${repo.name}/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
                   <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/${owner}/${repo.name}?label=created"></td>
                 </tr>
-                `;
-              }
+              `;
             }
 
-            // 4. Read the current README and replace the markers
+            // Read README, find markers, and replace the content between them
             const fs = require('fs');
             const readmePath = 'README.md';
             let readme = fs.readFileSync(readmePath, 'utf8');
@@ -120,20 +57,20 @@ jobs:
             const startMarker = '<!-- REPO-TABLE:START -->';
             const endMarker = '<!-- REPO-TABLE:END -->';
 
-            const startIndex = readme.indexOf(startMarker);
-            const endIndex = readme.indexOf(endMarker);
+            const start = readme.indexOf(startMarker);
+            const end = readme.indexOf(endMarker);
 
-            if (startIndex === -1 || endIndex === -1) {
+            if (start === -1 || end === -1) {
               throw new Error('Markers not found in README.md. Please add <!-- REPO-TABLE:START --> and <!-- REPO-TABLE:END --> inside your <tbody>.');
             }
 
-            const before = readme.substring(0, startIndex + startMarker.length);
-            const after = readme.substring(endIndex);
-            const newReadme = before + '\n' + htmlRows + '\n' + after;
+            const before = readme.substring(0, start + startMarker.length);
+            const after = readme.substring(end);
+            const newReadme = before + '\n' + rows + '\n' + after;
 
             fs.writeFileSync(readmePath, newReadme);
 
-      - name: Commit and push changes
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
