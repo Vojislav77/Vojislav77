@@ -48,282 +48,65 @@
 
 <em>My repositories:</em>
 
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>Project</b></td>
-      <td><b>Stars</b></td>
-      <td><b>Forks</b></td>
-      <td><b>Commits</b></td>
-      <td><b>Contributors</b></td>
-      <td><b>Traffic</b></td>
-      <td><b>Created</b></td>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <td><a href="https://github.com/Vojislav77/gallery-website" target="_blank"><b>Gallery Website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/gallery-website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/gallery-website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/gallery-website?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/gallery-website?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/gallery-website/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/gallery-website?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/digital-downloads-website" target="_blank"><b>Digital Downloads Website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/digital-downloads-website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/digital-downloads-website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/digital-downloads-website?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/digital-downloads-website?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/digital-downloads-website/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/digital-downloads-website?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/little-notes" target="_blank"><b>Little Notes</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/little-notes?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/little-notes?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/little-notes?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/little-notes?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/little-notes/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/little-notes?label=created"></td>
-    </tr>
-        <tr>
-      <td><a href="https://github.com/Vojislav77/little-tasks" target="_blank"><b>Little Tasks</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/little-tasks?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/little-tasks?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/little-tasks?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/little-tasks?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/little-tasks/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/little-tasks?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/weather-dash" target="_blank"><b>Weather Dash</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/weather-dash?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/weather-dash?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/weather-dash?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/weather-dash?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/weather-dash/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/weather-dash?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/cue-splitter" target="_blank"><b>CUE Splitter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/cue-splitter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/cue-splitter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/cue-splitter?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/cue-splitter?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/cue-splitter/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/cue-splitter?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/lumen-calendar" target="_blank"><b>Lumen Calendar</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/lumen-calendar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/lumen-calendar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/lumen-calendar?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/lumen-calendar?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/lumen-calendar/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/lumen-calendar?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/habitat" target="_blank"><b>Habitat</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/habitat?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/habitat?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/habitat?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/habitat?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/habitat/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/habitat?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/magnet" target="_blank"><b>Magnet</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/magnet?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/magnet?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/magnet?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/magnet?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/magnet/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/magnet?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/audio-to-mp3-converter" target="_blank"><b>Audio to MP3 Converter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/audio-to-mp3-converter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/audio-to-mp3-converter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/audio-to-mp3-converter?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/audio-to-mp3-converter?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/audio-to-mp3-converter/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/audio-to-mp3-converter?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/plasma-guard" target="_blank"><b>Plasma Guard</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/plasma-guard?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/plasma-guard?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/plasma-guard?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/plasma-guard?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/plasma-guard/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/plasma-guard?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/apple-podcast-fox-sidebar" target="_blank"><b>Apple Podcast Fox Sidebar</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/apple-podcast-fox-sidebar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/apple-podcast-fox-sidebar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/apple-podcast-fox-sidebar?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/apple-podcast-fox-sidebar?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/apple-podcast-fox-sidebar/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/apple-podcast-fox-sidebar?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/weather-fox-sidebar" target="_blank"><b>Weather Fox Sidebar</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/weather-fox-sidebar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/weather-fox-sidebar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/weather-fox-sidebar?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/weather-fox-sidebar?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/weather-fox-sidebar/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/weather-fox-sidebar?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/ai-desktop-apps" target="_blank"><b>AI Desktop Apps</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/ai-desktop-apps?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/ai-desktop-apps?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/ai-desktop-apps?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/ai-desktop-apps?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/ai-desktop-apps/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/ai-desktop-apps?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/image-converter" target="_blank"><b>Image Converter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/image-converter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/image-converter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/image-converter?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/image-converter?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/image-converter/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/image-converter?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/weight-tracker" target="_blank"><b>Weight Tracker</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/weight-tracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/weight-tracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/weight-tracker?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/weight-tracker?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/weight-tracker/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/weight-tracker?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/fast" target="_blank"><b>Fast</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/fast?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/fast?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/fast?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/fast?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/fast/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/fast?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/orthodox-calendar" target="_blank"><b>Orthodox Calendar</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/orthodox-calendar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/orthodox-calendar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/orthodox-calendar?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/orthodox-calendar?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/orthodox-calendar/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/orthodox-calendar?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/world-radio" target="_blank"><b>World Radio</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/world-radio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/world-radio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/world-radio?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/world-radio?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/world-radio/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/world-radio?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/subnet-calculator" target="_blank"><b>Subnet Calculator</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/subnet-calculator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/subnet-calculator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/subnet-calculator?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/subnet-calculator?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/subnet-calculator/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/subnet-calculator?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/uptime-monitor" target="_blank"><b>Uptime Monitor</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/uptime-monitor?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/uptime-monitor?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/uptime-monitor?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/uptime-monitor?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/uptime-monitor/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/uptime-monitor?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/dynamic-wrapper" target="_blank"><b>Dynamic Wrapper</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/dynamic-wrapper?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/dynamic-wrapper?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/dynamic-wrapper?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/dynamic-wrapper?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/dynamic-wrapper/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/dynamic-wrapper?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/alternate-day-fasting-tracker" target="_blank"><b>Alternate Day Fasting Tracker</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/alternate-day-fasting-tracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/alternate-day-fasting-tracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/alternate-day-fasting-tracker?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/alternate-day-fasting-tracker?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/alternate-day-fasting-tracker/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/alternate-day-fasting-tracker?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/book-collection-tracker" target="_blank"><b>Book Collection Tracker</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/book-collection-tracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/book-collection-tracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/book-collection-tracker?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/book-collection-tracker?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/book-collection-tracker/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/book-collection-tracker?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/global-time-meeting-scheduler" target="_blank"><b>Global Time Meeting Scheduler</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/global-time-meeting-scheduler?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/global-time-meeting-scheduler?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/global-time-meeting-scheduler?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/global-time-meeting-scheduler?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/global-time-meeting-scheduler/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/global-time-meeting-scheduler?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/if-tracker" target="_blank"><b>IF Tracker</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/if-tracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/if-tracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/if-tracker?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/if-tracker?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/if-tracker/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/if-tracker?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/ufc-calendar" target="_blank"><b>UFC Calendar</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/ufc-calendar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/ufc-calendar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/ufc-calendar?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/ufc-calendar?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/ufc-calendar/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/ufc-calendar?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/redstar-calendar" target="_blank"><b>Redstar Calendar</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/redstar-calendar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/redstar-calendar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/redstar-calendar?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/redstar-calendar?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/redstar-calendar/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/redstar-calendar?label=created"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vojislav77/f1-calendar-2026" target="_blank"><b>F1 Calendar 2026</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vojislav77/f1-calendar-2026?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vojislav77/f1-calendar-2026?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Vojislav77/f1-calendar-2026?style=plastic"/></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Vojislav77/f1-calendar-2026?style=plastic&cacheSeconds=600"/></td>
-      <td><a href="https://github.com/Vojislav77/f1-calendar-2026/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"/></a></td>
-      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vojislav77/f1-calendar-2026?label=created"></td>
-    </tr>
-  </tbody>
-</table>
+### 📅 Calendars & Scheduling
+
+| Project | Stats & Info |
+| :--- | :--- |
+| **[Lumen Calendar](https://github.com/Vojislav77/lumen-calendar)**<br><sup>Calendar application</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/lumen-calendar?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/lumen-calendar?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/lumen-calendar?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/lumen-calendar?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/lumen-calendar/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/lumen-calendar?style=flat-square&label=created) |
+| **[Orthodox Calendar](https://github.com/Vojislav77/orthodox-calendar)**<br><sup>Orthodox Christian calendar</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/orthodox-calendar?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/orthodox-calendar?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/orthodox-calendar?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/orthodox-calendar?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/orthodox-calendar/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/orthodox-calendar?style=flat-square&label=created) |
+| **[UFC Calendar](https://github.com/Vojislav77/ufc-calendar)**<br><sup>UFC event calendar</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/ufc-calendar?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/ufc-calendar?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/ufc-calendar?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/ufc-calendar?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/ufc-calendar/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/ufc-calendar?style=flat-square&label=created) |
+| **[Redstar Calendar](https://github.com/Vojislav77/redstar-calendar)**<br><sup>Redstar calendar application</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/redstar-calendar?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/redstar-calendar?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/redstar-calendar?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/redstar-calendar?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/redstar-calendar/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/redstar-calendar?style=flat-square&label=created) |
+| **[F1 Calendar 2026](https://github.com/Vojislav77/f1-calendar-2026)**<br><sup>Formula 1 2026 calendar</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/f1-calendar-2026?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/f1-calendar-2026?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/f1-calendar-2026?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/f1-calendar-2026?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/f1-calendar-2026/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/f1-calendar-2026?style=flat-square&label=created) |
+| **[Global Time Meeting Scheduler](https://github.com/Vojislav77/global-time-meeting-scheduler)**<br><sup>Global time zone meeting scheduler</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/global-time-meeting-scheduler?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/global-time-meeting-scheduler?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/global-time-meeting-scheduler?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/global-time-meeting-scheduler?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/global-time-meeting-scheduler/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/global-time-meeting-scheduler?style=flat-square&label=created) |
+
+### 🏃 Health, Fitness & Productivity
+
+| Project | Stats & Info |
+| :--- | :--- |
+| **[Habitat](https://github.com/Vojislav77/habitat)**<br><sup>Habit tracking application</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/habitat?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/habitat?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/habitat?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/habitat?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/habitat/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/habitat?style=flat-square&label=created) |
+| **[Weight Tracker](https://github.com/Vojislav77/weight-tracker)**<br><sup>Weight tracking application</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/weight-tracker?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/weight-tracker?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/weight-tracker?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/weight-tracker?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/weight-tracker/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/weight-tracker?style=flat-square&label=created) |
+| **[Fast](https://github.com/Vojislav77/fast)**<br><sup>Fasting or performance utility</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/fast?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/fast?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/fast?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/fast?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/fast/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/fast?style=flat-square&label=created) |
+| **[Alternate Day Fasting Tracker](https://github.com/Vojislav77/alternate-day-fasting-tracker)**<br><sup>Alternate day fasting tracker</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/alternate-day-fasting-tracker?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/alternate-day-fasting-tracker?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/alternate-day-fasting-tracker?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/alternate-day-fasting-tracker?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/alternate-day-fasting-tracker/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/alternate-day-fasting-tracker?style=flat-square&label=created) |
+| **[IF Tracker](https://github.com/Vojislav77/if-tracker)**<br><sup>Intermittent fasting tracker</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/if-tracker?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/if-tracker?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/if-tracker?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/if-tracker?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/if-tracker/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/if-tracker?style=flat-square&label=created) |
+| **[Book Collection Tracker](https://github.com/Vojislav77/book-collection-tracker)**<br><sup>Personal book collection manager</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/book-collection-tracker?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/book-collection-tracker?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/book-collection-tracker?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/book-collection-tracker?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/book-collection-tracker/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/book-collection-tracker?style=flat-square&label=created) |
+| **[Little Notes](https://github.com/Vojislav77/little-notes)**<br><sup>Lightweight note-taking app</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/little-notes?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/little-notes?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/little-notes?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/little-notes?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/little-notes/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/little-notes?style=flat-square&label=created) |
+| **[Little Tasks](https://github.com/Vojislav77/little-tasks)**<br><sup>Simple task management</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/little-tasks?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/little-tasks?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/little-tasks?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/little-tasks?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/little-tasks/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/little-tasks?style=flat-square&label=created) |
+
+### 🌐 Web & Desktop Applications
+
+| Project | Stats & Info |
+| :--- | :--- |
+| **[Gallery Website](https://github.com/Vojislav77/gallery-website)**<br><sup>Gallery website</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/gallery-website?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/gallery-website?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/gallery-website?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/gallery-website?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/gallery-website/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/gallery-website?style=flat-square&label=created) |
+| **[Digital Downloads Website](https://github.com/Vojislav77/digital-downloads-website)**<br><sup>Digital downloads platform</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/digital-downloads-website?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/digital-downloads-website?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/digital-downloads-website?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/digital-downloads-website?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/digital-downloads-website/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/digital-downloads-website?style=flat-square&label=created) |
+| **[AI Desktop Apps](https://github.com/Vojislav77/ai-desktop-apps)**<br><sup>AI-powered desktop applications</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/ai-desktop-apps?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/ai-desktop-apps?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/ai-desktop-apps?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/ai-desktop-apps?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/ai-desktop-apps/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/ai-desktop-apps?style=flat-square&label=created) |
+| **[Dynamic Wrapper](https://github.com/Vojislav77/dynamic-wrapper)**<br><sup>Dynamic wrapping utility</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/dynamic-wrapper?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/dynamic-wrapper?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/dynamic-wrapper?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/dynamic-wrapper?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/dynamic-wrapper/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/dynamic-wrapper?style=flat-square&label=created) |
+| **[Weather Dash](https://github.com/Vojislav77/weather-dash)**<br><sup>Weather dashboard</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/weather-dash?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/weather-dash?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/weather-dash?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/weather-dash?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/weather-dash/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/weather-dash?style=flat-square&label=created) |
+
+### 🎵 Media, Audio & Image Tools
+
+| Project | Stats & Info |
+| :--- | :--- |
+| **[CUE Splitter](https://github.com/Vojislav77/cue-splitter)**<br><sup>CUE sheet audio splitter</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/cue-splitter?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/cue-splitter?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/cue-splitter?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/cue-splitter?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/cue-splitter/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/cue-splitter?style=flat-square&label=created) |
+| **[Audio to MP3 Converter](https://github.com/Vojislav77/audio-to-mp3-converter)**<br><sup>Audio to MP3 conversion tool</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/audio-to-mp3-converter?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/audio-to-mp3-converter?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/audio-to-mp3-converter?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/audio-to-mp3-converter?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/audio-to-mp3-converter/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/audio-to-mp3-converter?style=flat-square&label=created) |
+| **[World Radio](https://github.com/Vojislav77/world-radio)**<br><sup>World radio streaming</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/world-radio?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/world-radio?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/world-radio?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/world-radio?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/world-radio/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/world-radio?style=flat-square&label=created) |
+| **[Image Converter](https://github.com/Vojislav77/image-converter)**<br><sup>Image format conversion tool</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/image-converter?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/image-converter?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/image-converter?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/image-converter?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/image-converter/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/image-converter?style=flat-square&label=created) |
+
+### 🦊 Browser Extensions & Sidebars
+
+| Project | Stats & Info |
+| :--- | :--- |
+| **[Apple Podcast Fox Sidebar](https://github.com/Vojislav77/apple-podcast-fox-sidebar)**<br><sup>Apple Podcast sidebar extension</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/apple-podcast-fox-sidebar?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/apple-podcast-fox-sidebar?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/apple-podcast-fox-sidebar?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/apple-podcast-fox-sidebar?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/apple-podcast-fox-sidebar/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/apple-podcast-fox-sidebar?style=flat-square&label=created) |
+| **[Weather Fox Sidebar](https://github.com/Vojislav77/weather-fox-sidebar)**<br><sup>Weather sidebar extension</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/weather-fox-sidebar?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/weather-fox-sidebar?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/weather-fox-sidebar?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/weather-fox-sidebar?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/weather-fox-sidebar/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/weather-fox-sidebar?style=flat-square&label=created) |
+
+### 🛠️ DevOps, Networking & Utilities
+
+| Project | Stats & Info |
+| :--- | :--- |
+| **[Uptime Monitor](https://github.com/Vojislav77/uptime-monitor)**<br><sup>Service uptime monitoring</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/uptime-monitor?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/uptime-monitor?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/uptime-monitor?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/uptime-monitor?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/uptime-monitor/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/uptime-monitor?style=flat-square&label=created) |
+| **[Subnet Calculator](https://github.com/Vojislav77/subnet-calculator)**<br><sup>Network subnet calculation tool</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/subnet-calculator?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/subnet-calculator?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/subnet-calculator?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/subnet-calculator?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/subnet-calculator/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/subnet-calculator?style=flat-square&label=created) |
+| **[Plasma Guard](https://github.com/Vojislav77/plasma-guard)**<br><sup>Plasma environment utility</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/plasma-guard?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/plasma-guard?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/plasma-guard?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/plasma-guard?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/plasma-guard/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/plasma-guard?style=flat-square&label=created) |
+| **[Magnet](https://github.com/Vojislav77/magnet)**<br><sup>Magnet utility tool</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/magnet?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/magnet?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/magnet?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/magnet?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/magnet/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/magnet?style=flat-square&label=created) |
+
 </div>
 
 <br>
