@@ -15,7 +15,7 @@
 
 ---
 
-### 📅 Calendars & Scheduling
+### Calendars & Scheduling
 * **[Lumen Calendar](https://github.com/Vojislav77/lumen-calendar)** — Modern calendar application *(JavaScript, HTML, CSS)*
 * **[Orthodox Calendar](https://github.com/Vojislav77/orthodox-calendar)** — Orthodox Christian calendar *(JavaScript, HTML, CSS)*
 * **[UFC Calendar](https://github.com/Vojislav77/ufc-calendar)** — UFC event calendar *(JavaScript, HTML, CSS)*
@@ -23,7 +23,7 @@
 * **[F1 Calendar 2026](https://github.com/Vojislav77/f1-calendar-2026)** — Formula 1 2026 event calendar *(JavaScript, HTML, CSS)*
 * **[Global Time Meeting Scheduler](https://github.com/Vojislav77/global-time-meeting-scheduler)** — Global time zone meeting planner *(JavaScript, HTML, CSS)*
 
-### 🏃 Health, Fitness & Productivity
+### Health, Fitness & Productivity
 * **[Habitat](https://github.com/Vojislav77/habitat)** — Habit tracking application *(TypeScript, Next.js, Tailwind, PostgreSQL)*
 * **[Weight Tracker](https://github.com/Vojislav77/weight-tracker)** — Health and weight tracking application *(JavaScript, HTML, CSS)*
 * **[Fast](https://github.com/Vojislav77/fast)** — Fasting timer and performance utility *(JavaScript, HTML, CSS)*
@@ -33,24 +33,24 @@
 * **[Little Notes](https://github.com/Vojislav77/little-notes)** — Lightweight markdown note-taking app *(Rust, Markdown)*
 * **[Little Tasks](https://github.com/Vojislav77/little-tasks)** — Simple and fast task management *(Rust)*
 
-### 💻 Web & Desktop Applications
+### Web & Desktop Applications
 * **[Gallery Website](https://github.com/Vojislav77/gallery-website)** — Photo gallery website template *(JavaScript, HTML, CSS)*
 * **[Digital Downloads Website](https://github.com/Vojislav77/digital-downloads-website)** — Digital downloads sales platform *(JavaScript, HTML, CSS)*
 * **[AI Desktop Apps](https://github.com/Vojislav77/ai-desktop-apps)** — AI-powered desktop applications *(JavaScript, AI)*
 * **[Dynamic Wrapper](https://github.com/Vojislav77/dynamic-wrapper)** — Dynamic wrapping utility *(JavaScript, HTML, CSS)*
 * **[Weather Dash](https://github.com/Vojislav77/weather-dash)** — Weather forecast dashboard *(Python)*
 
-### 🎧 Media, Audio & Image Tools
+### Media, Audio & Image Tools
 * **[CUE Splitter](https://github.com/Vojislav77/cue-splitter)** — CUE sheet audio file splitter *(Shell)*
 * **[Audio to MP3 Converter](https://github.com/Vojislav77/audio-to-mp3-converter)** — Audio format conversion tool *(Python)*
 * **[World Radio](https://github.com/Vojislav77/world-radio)** — World radio streaming application *(JavaScript, HTML)*
 * **[Image Converter](https://github.com/Vojislav77/image-converter)** — Image compression and format converter *(Python)*
 
-### 🦊 Browser Extensions & Sidebars
+### Browser Extensions & Sidebars
 * **[Apple Podcast Fox Sidebar](https://github.com/Vojislav77/apple-podcast-fox-sidebar)** — Apple Podcast sidebar extension *(JavaScript, Firefox)*
 * **[Weather Fox Sidebar](https://github.com/Vojislav77/weather-fox-sidebar)** — Weather sidebar extension *(JavaScript, Firefox)*
 
-### ⚡ DevOps, Networking & Utilities
+### DevOps, Networking & Utilities
 * **[Uptime Monitor](https://github.com/Vojislav77/uptime-monitor)** — Service uptime monitoring tool *(Python)*
 * **[Subnet Calculator](https://github.com/Vojislav77/subnet-calculator)** — Network subnet calculation tool *(JavaScript, HTML, CSS)*
 * **[Plasma Guard](https://github.com/Vojislav77/plasma-guard)** — Security and antivirus scanner tool *(Python)*
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vojislav77" alt="GitHub Stats Card" />
 
