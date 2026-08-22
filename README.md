@@ -15,27 +15,31 @@
 
 ---
 
-### 🚀 Highlighted Projects
+<div align="center">
+
+### Highlighted Projects
 
 Here are a few of my core open-source tools and applications:
+
+<div align="center">
 
 * **[Habitat](https://github.com/Vojislav77/habitat)** — A modern habit tracking application built with Next.js, TypeScript, and Tailwind CSS.
 * **[Lumen Calendar](https://github.com/Vojislav77/lumen-calendar)** — A modern, clean web calendar application built with JavaScript.
 * **[Little Notes](https://github.com/Vojislav77/little-notes)** — A lightweight, fast command-line markdown note-taking app written in Rust.
 * **[Plasma Guard](https://github.com/Vojislav77/plasma-guard)** — A security and antivirus scanner tool designed for Linux, built in Python.
-* **[AI Desktop Apps](https://github.com/Vojislav77/ai-desktop-apps)** — A collection of AI-powered desktop utilities.
-* **[Uptime Monitor](https://github.com/Vojislav77/uptime-monitor)** — A reliable service uptime monitoring tool written in Python.
+* **[World Radio](https://github.com/Vojislav77/world-radio)** — A world radio streaming application.
+* **[Book Collection Tracker](https://github.com/Vojislav77/book-collection-tracker)** — A personal book collection manager.
 
-*(Want to see more? Check out my repositories tab for specialized calendars, browser extensions, and media utilities!)*
+</div>
+
+<p><em>(Want to see more? Check out my repositories tab for specialized calendars, browser extensions, and media utilities!)</em></p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vojislav77" alt="GitHub Stats Card" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vojislav77" alt="GitHub Stats Card" />
 
-<div align="center">
-  <p><em>Thanks for visiting! Feel free to reach out via <a href="https://www.linkedin.com/in/vojislavkorac/">LinkedIn</a>.</em></p>
+<p><em>Thanks for visiting! Feel free to reach out via <a href="https://www.linkedin.com/in/vojislavkorac/">LinkedIn</a>.</em></p>
+
 </div>
