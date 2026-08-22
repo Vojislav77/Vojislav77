@@ -15,14 +15,15 @@
 
 ---
 
-<div align="center">
-
 ### What I Do
+
 * **Linux & Open Source:** Building utilities, custom tools, and applications tailored for the Linux experience.
 * **AI-Accelerated Dev:** Utilizing modern AI tooling to prototype, build, and ship software efficiently.
 * **Full-Stack & Tools:** Ranging from web-based dashboards and productivity apps in JavaScript/TypeScript/Python to command-line tools in Rust.
 
 ---
+
+<div align="center">
 
 ### GitHub Stats
 
