@@ -35,7 +35,7 @@
 
 <div align="center">
   
-  <h2>Open Source Projects:</h2>
+  <h3>Open Source Projects:</h3>
 
 ### Calendars & Scheduling
 
