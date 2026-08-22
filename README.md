@@ -35,9 +35,9 @@
 
 <div align="center">
   
-  <h3>Open Source Projects:</h3>
+  <h2>Open Source Projects:</h2>
 
-## Calendars & Scheduling
+### Calendars & Scheduling
 
 | Project | Stats & Info |
 | :--- | :--- |
