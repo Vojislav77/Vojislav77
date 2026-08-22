@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm vk</h1>
+  <h1>Hi, I'm Vojislav (vk)</h1>
 </div>
 
 <p align="center">
@@ -33,7 +33,7 @@
 <div align="center">
  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vojislav77" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vojislav77" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vojislav77" />
 </p>
   
 </div>
