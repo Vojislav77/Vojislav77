@@ -13,7 +13,7 @@
   </p>
 </div>
 
----
+
 
 ### Calendars & Scheduling
 * **[Lumen Calendar](https://github.com/Vojislav77/lumen-calendar)** — Modern calendar application *(JavaScript, HTML, CSS)*
@@ -56,13 +56,9 @@
 * **[Plasma Guard](https://github.com/Vojislav77/plasma-guard)** — Security and antivirus scanner tool *(Python)*
 * **[Magnet](https://github.com/Vojislav77/magnet)** — Torrent client desktop downloader *(Python)*
 
----
+
 
 <div align="center">
-
-### GitHub Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vojislav77" alt="GitHub Stats Card" />
 
 <p><em>Thanks for visiting my profile! Feel free to reach out via <a href="https://www.linkedin.com/in/vojislavkorac/">LinkedIn</a> or explore my <a href="https://vojislavkorac.xyz/">Portfolio</a>.</em></p>
 
