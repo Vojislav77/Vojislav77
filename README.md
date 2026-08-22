@@ -48,7 +48,7 @@
 
 <em>My repositories:</em>
 
-### 📅 Calendars & Scheduling
+### Calendars & Scheduling
 
 | Project | Stats & Info |
 | :--- | :--- |
@@ -59,7 +59,7 @@
 | **[F1 Calendar 2026](https://github.com/Vojislav77/f1-calendar-2026)**<br><sup>Formula 1 2026 calendar</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/f1-calendar-2026?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/f1-calendar-2026?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/f1-calendar-2026?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/f1-calendar-2026?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/f1-calendar-2026/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/f1-calendar-2026?style=flat-square&label=created) |
 | **[Global Time Meeting Scheduler](https://github.com/Vojislav77/global-time-meeting-scheduler)**<br><sup>Global time zone meeting scheduler</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/global-time-meeting-scheduler?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/global-time-meeting-scheduler?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/global-time-meeting-scheduler?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/global-time-meeting-scheduler?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/global-time-meeting-scheduler/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/global-time-meeting-scheduler?style=flat-square&label=created) |
 
-### 🏃 Health, Fitness & Productivity
+### Health, Fitness & Productivity
 
 | Project | Stats & Info |
 | :--- | :--- |
@@ -72,7 +72,7 @@
 | **[Little Notes](https://github.com/Vojislav77/little-notes)**<br><sup>Lightweight note-taking app</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/little-notes?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/little-notes?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/little-notes?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/little-notes?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/little-notes/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/little-notes?style=flat-square&label=created) |
 | **[Little Tasks](https://github.com/Vojislav77/little-tasks)**<br><sup>Simple task management</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/little-tasks?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/little-tasks?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/little-tasks?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/little-tasks?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/little-tasks/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/little-tasks?style=flat-square&label=created) |
 
-### 🌐 Web & Desktop Applications
+### Web & Desktop Applications
 
 | Project | Stats & Info |
 | :--- | :--- |
@@ -82,7 +82,7 @@
 | **[Dynamic Wrapper](https://github.com/Vojislav77/dynamic-wrapper)**<br><sup>Dynamic wrapping utility</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/dynamic-wrapper?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/dynamic-wrapper?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/dynamic-wrapper?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/dynamic-wrapper?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/dynamic-wrapper/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/dynamic-wrapper?style=flat-square&label=created) |
 | **[Weather Dash](https://github.com/Vojislav77/weather-dash)**<br><sup>Weather dashboard</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/weather-dash?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/weather-dash?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/weather-dash?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/weather-dash?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/weather-dash/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/weather-dash?style=flat-square&label=created) |
 
-### 🎵 Media, Audio & Image Tools
+### Media, Audio & Image Tools
 
 | Project | Stats & Info |
 | :--- | :--- |
@@ -91,14 +91,14 @@
 | **[World Radio](https://github.com/Vojislav77/world-radio)**<br><sup>World radio streaming</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/world-radio?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/world-radio?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/world-radio?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/world-radio?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/world-radio/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/world-radio?style=flat-square&label=created) |
 | **[Image Converter](https://github.com/Vojislav77/image-converter)**<br><sup>Image format conversion tool</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/image-converter?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/image-converter?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/image-converter?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/image-converter?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/image-converter/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/image-converter?style=flat-square&label=created) |
 
-### 🦊 Browser Extensions & Sidebars
+### Browser Extensions & Sidebars
 
 | Project | Stats & Info |
 | :--- | :--- |
 | **[Apple Podcast Fox Sidebar](https://github.com/Vojislav77/apple-podcast-fox-sidebar)**<br><sup>Apple Podcast sidebar extension</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/apple-podcast-fox-sidebar?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/apple-podcast-fox-sidebar?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/apple-podcast-fox-sidebar?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/apple-podcast-fox-sidebar?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/apple-podcast-fox-sidebar/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/apple-podcast-fox-sidebar?style=flat-square&label=created) |
 | **[Weather Fox Sidebar](https://github.com/Vojislav77/weather-fox-sidebar)**<br><sup>Weather sidebar extension</sup> | ![Stars](https://img.shields.io/github/stars/Vojislav77/weather-fox-sidebar?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/weather-fox-sidebar?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/weather-fox-sidebar?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/weather-fox-sidebar?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/weather-fox-sidebar/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/weather-fox-sidebar?style=flat-square&label=created) |
 
-### 🛠️ DevOps, Networking & Utilities
+### DevOps, Networking & Utilities
 
 | Project | Stats & Info |
 | :--- | :--- |
