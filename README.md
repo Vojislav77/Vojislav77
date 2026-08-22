@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Vojislav (vk) 👋</h1>
+  <h1>Hi, I'm Vojislav (vk)</h1>
   <p>
     Welcome to my GitHub! 🐧 I build and share <strong>open-source</strong> projects, primarily focused on the <strong>Linux</strong> ecosystem. 
     <br>
