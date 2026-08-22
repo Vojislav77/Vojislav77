@@ -1,41 +1,36 @@
 <div align="center">
-  <h1>Hi, I'm vk</h1>
+  <h1>Hi, I'm Vojislav (vk) 👋</h1>
+  <p>
+    Welcome to my GitHub! 🐧 I build and share <strong>open-source</strong> projects, primarily focused on the <strong>Linux</strong> ecosystem. 
+    <br>
+    I leverage <strong>AI</strong> to accelerate development, with a mission to make Linux more approachable, functional, and beautiful for everyone.
+  </p>
 </div>
 
 <p align="center">
-  <em>Welcome to my GitHub! 🐧 I share my open-source projects here—primarily focused on Linux. I build these with the help of AI to spread the word about open-source software and make the Linux ecosystem more approachable for everyone.</em>
-</p>
-
-<p align="center">
   <a href="https://github.com/Vojislav77">
-    <img src="https://img.shields.io/github/followers/Vojislav77?label=Follow&style=social" alt="Follow">
+    <img src="https://img.shields.io/github/followers/Vojislav77?label=Follow&style=flat-square&logo=github&logoColor=white&color=333333" alt="Follow">
   </a>
 </p>
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=plastic&logo=globe&logoColor=white)](https://vojislavkorac.xyz/) [![Photography](https://img.shields.io/badge/Photography-333333?style=plastic&logo=camera&logoColor=white)](https://fotogalerija.xyz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vojislavkorac/)
-
-</div>
-
-<div align="center">
-
-[![Hits](https://hits.sh/github.com/Vojislav77/hits.svg?style=plastic&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/Vojislav77/hits/)
-
+  <a href="https://vojislavkorac.xyz/">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=globe&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://fotogalerija.xyz/">
+    <img src="https://img.shields.io/badge/Photography-333333?style=flat-square&logo=camera&logoColor=white" alt="Photography">
+  </a>
+  <a href="https://www.linkedin.com/in/vojislavkorac/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 <br>
 
----
-
-<br>
-
 <div align="center">
- 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vojislav77" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vojislav77" />
-</p>
-  
+  <a href="https://hits.sh/github.com/Vojislav77/hits/">
+    <img src="https://hits.sh/github.com/Vojislav77/hits.svg?style=flat-square&color=343b41&view=today-total&label=Profile Views (Today / Total)" alt="Profile Views">
+  </a>
 </div>
 
 <br>
@@ -45,8 +40,30 @@
 <br>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vojislav77&theme=default" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vojislav77&theme=default" alt="Top Languages" />
+</div>
 
-<em>My repositories:</em>
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  <h3>Open Source Projects</h3>
+</div>
+
+### Featured Projects
+*My most impactful or complex builds:*
+
+| Project | Description & Tech Stack |
+| :--- | :--- |
+| **[Habitat](https://github.com/Vojislav77/habitat)** | A comprehensive habit-tracking application with charts, stats, and pre-defined routines.<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| **[Little Notes](https://github.com/Vojislav77/little-notes)** | A lightweight, blazing-fast markdown note-taking application.<br>![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
+| **[Plasma Guard](https://github.com/Vojislav77/plasma-guard)** | A security and antivirus scanner tool designed for the Linux environment.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+<br>
 
 ### Calendars & Scheduling
 
@@ -107,10 +124,12 @@
 | **[Plasma Guard](https://github.com/Vojislav77/plasma-guard)**<br><sup>Security and antivirus scanner tool</sup><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Stars](https://img.shields.io/github/stars/Vojislav77/plasma-guard?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/plasma-guard?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/plasma-guard?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/plasma-guard?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/plasma-guard/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/plasma-guard?style=flat-square&label=created) |
 | **[Magnet](https://github.com/Vojislav77/magnet)**<br><sup>Torrent client desktop downloader</sup><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Stars](https://img.shields.io/github/stars/Vojislav77/magnet?style=flat-square&labelColor=343b41) ![Forks](https://img.shields.io/github/forks/Vojislav77/magnet?style=flat-square&labelColor=343b41) ![Contributors](https://img.shields.io/github/contributors/Vojislav77/magnet?style=flat-square&labelColor=343b41&cacheSeconds=600)<br>![Commits](https://img.shields.io/github/commit-activity/t/Vojislav77/magnet?style=flat-square&labelColor=343b41) [![Traffic](https://img.shields.io/badge/Traffic-brown?style=flat-square&cacheSeconds=600)](https://github.com/Vojislav77/magnet/graphs/traffic) ![Created](https://img.shields.io/github/created-at/Vojislav77/magnet?style=flat-square&label=created) |
 
-</div>
-
 <br>
 
 ---
 
 <br>
+
+<div align="center">
+  <p><em>Thanks for visiting my profile! Feel free to reach out via <a href="https://www.linkedin.com/in/vojislavkorac/">LinkedIn</a> or explore my <a href="https://vojislavkorac.xyz/">Portfolio</a>.</em></p>
+</div>
