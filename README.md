@@ -1,10 +1,11 @@
 <div align="center">
-  <h1>Hi, I'm Vojislav (vk)</h1>
+  <h1>Hi, I'm Vojislav (vk) 👋</h1>
+  <p>
+    Welcome to my GitHub! 🐧 I build and share <strong>open-source</strong> projects, primarily focused on the <strong>Linux</strong> ecosystem. 
+    <br>
+    I leverage <strong>AI</strong> to accelerate development, with a mission to make Linux more approachable, functional, and beautiful for everyone.
+  </p>
 </div>
-
-<p align="center">
-  <em>Welcome to my GitHub! 🐧 I share my open-source projects here—primarily focused on Linux. I build these with the help of AI to spread the word about open-source software and make the Linux ecosystem more approachable for everyone.</em>
-</p>
 
 <p align="center">
   <a href="https://github.com/Vojislav77">
@@ -33,8 +34,8 @@
 </div>
 
 <div align="center">
-
-<em>My repositories:</em>
+  
+  <h3>Open Source Projects</h3>
 
 ### Calendars & Scheduling
 
