@@ -24,12 +24,6 @@
 
 </div>
 
-<br>
-
----
-
-<br>
-
 <div align="center">
  
 <p align="center">
@@ -37,12 +31,6 @@
 </p>
   
 </div>
-
-<br>
-
----
-
-<br>
 
 <div align="center">
 
@@ -109,8 +97,6 @@
 
 </div>
 
-<br>
-
----
-
-<br>
+<div align="center">
+  <p><em>Thanks for visiting my profile! Feel free to reach out via <a href="https://www.linkedin.com/in/vojislavkorac/">LinkedIn</a> or explore my <a href="https://vojislavkorac.xyz/">Portfolio</a>.</em></p>
+</div>
