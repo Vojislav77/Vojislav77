@@ -17,22 +17,10 @@
 
 <div align="center">
 
-### Highlighted Projects
-
-Here are a few of my core open-source tools and applications:
-
-<div align="center">
-
-* **[Habitat](https://github.com/Vojislav77/habitat)** — A modern habit tracking application built with Next.js, TypeScript, and Tailwind CSS.
-* **[Lumen Calendar](https://github.com/Vojislav77/lumen-calendar)** — A modern, clean web calendar application built with JavaScript.
-* **[Little Notes](https://github.com/Vojislav77/little-notes)** — A lightweight, fast command-line markdown note-taking app written in Rust.
-* **[Plasma Guard](https://github.com/Vojislav77/plasma-guard)** — A security and antivirus scanner tool designed for Linux, built in Python.
-* **[World Radio](https://github.com/Vojislav77/world-radio)** — A world radio streaming application.
-* **[Book Collection Tracker](https://github.com/Vojislav77/book-collection-tracker)** — A personal book collection manager.
-
-</div>
-
-<p><em>(Want to see more? Check out my repositories tab for specialized calendars, browser extensions, and media utilities!)</em></p>
+### What I Do
+* **Linux & Open Source:** Building utilities, custom tools, and applications tailored for the Linux experience.
+* **AI-Accelerated Dev:** Utilizing modern AI tooling to prototype, build, and ship software efficiently.
+* **Full-Stack & Tools:** Ranging from web-based dashboards and productivity apps in JavaScript/TypeScript/Python to command-line tools in Rust.
 
 ---
 
@@ -40,6 +28,6 @@ Here are a few of my core open-source tools and applications:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vojislav77" alt="GitHub Stats Card" />
 
-<p><em>Thanks for visiting! Feel free to reach out via <a href="https://www.linkedin.com/in/vojislavkorac/">LinkedIn</a>.</em></p>
+<p><em>Thanks for visiting! Feel free to reach out via <a href="https://www.linkedin.com/in/vojislavkorac/">LinkedIn</a> or my <a href="https://vojislavkorac.xyz/">Portfolio</a>.</em></p>
 
 </div>
