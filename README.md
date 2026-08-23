@@ -34,6 +34,7 @@
 * **[Little Tasks](https://github.com/Vojislav77/little-tasks)** — Simple and fast task management *(Rust)*
 
 ### Web & Desktop Applications
+* **[Portfolio Starter Website](https://github.com/Vojislav77/portfolio-starter-website)** — Portfolio Starter website template *(JavaScript, HTML, CSS)*
 * **[Gallery Website](https://github.com/Vojislav77/gallery-website)** — Photo gallery website template *(JavaScript, HTML, CSS)*
 * **[Digital Downloads Website](https://github.com/Vojislav77/digital-downloads-website)** — Digital downloads sales platform *(JavaScript, HTML, CSS)*
 * **[AI Desktop Apps](https://github.com/Vojislav77/ai-desktop-apps)** — AI-powered desktop applications *(JavaScript, AI)*
