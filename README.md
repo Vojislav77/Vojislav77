@@ -65,3 +65,11 @@
 <p><em>Thanks for visiting my profile! Feel free to reach out via <a href="https://www.linkedin.com/in/vojislavkorac/">LinkedIn</a> or explore my <a href="https://vojislavkorac.xyz/">Portfolio</a>.</em></p>
 
 </div>
+
+<br>
+
+<div align="center">
+
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=Vojislav77&theme=light&days=30&width=320&height=80&hide_border=true)
+
+</div>
