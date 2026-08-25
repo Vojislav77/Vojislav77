@@ -13,6 +13,18 @@
   </p>
 </div>
 
+<div align="center">
+
+![GitHub Mini Badge](https://ghstats.dev/api/mini?username=Vojislav77&theme=light&style=minimal)
+
+</div>
+
+<div align="center">
+
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=Vojislav77&theme=light&days=30&width=320&height=80&hide_border=true)
+
+</div>
+
 <br>
 
 ### Calendars & Scheduling
@@ -67,15 +79,3 @@
 </div>
 
 <br>
-
-<div align="center">
-
-![GitHub Mini Badge](https://ghstats.dev/api/mini?username=Vojislav77&theme=light&style=minimal)
-
-</div>
-
-<div align="center">
-
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=Vojislav77&theme=light&days=30&width=320&height=80&hide_border=true)
-
-</div>
